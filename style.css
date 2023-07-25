@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(128, 131, 126);
+    text-align: center;
+
+}
+#app {
+    background-color:rgb(41, 214, 240);
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 6%;
+    border-radius: 5%;
+    margin: 5% 35% 5% 35%;
+    
+
+}
+
+#clock-face{
+    font-family: 'Tektur', cursive;
+    font-size: xx-large;
+}
+
+#alarm-container{
+    font-family: 'Tektur', cursive;
+    font-size:x-large;
+
+}
+
+.text-data{
+    font-family: 'Source Code Pro', monospace;
+}
